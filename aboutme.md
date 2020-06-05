@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Human, Pythonista, Geek, Linux, Developer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+###Aloha!
+Hi! I'm Opu. (formally known as Iftakharul Islam). I'm a tech enthusiast, junior developer. I've a passion for building and breaking things apart (ouch!). 
 
 What else do you need?
 
-### my history
+### history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, So, this section will be **update** over time.
