@@ -13,9 +13,10 @@ author: Iftakharul Islam
 
 navbar-links:
   About Me: "aboutme"
-  Resume | CV: "RESUME___CV.pdf"
+  Resume | CV: "resume/RESUME___CV.pdf"
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Old Site: "https://iftakharopu.wordpress.com"
   Projects: "https://github.com/iftakharopu"
 
 # --- Logo --- #
