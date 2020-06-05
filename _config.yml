@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Iftakharul Islam
 
 # Short description of your site
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Iftakharul Islam
 
 # --- List of links in the navigation bar --- #
 
@@ -38,17 +38,17 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "iftakharopu27@gmail.com"
+  facebook: darthcodex
+  github: iftakharopu
+  twitter: iftakharopu
   rss: true
-#  reddit: yourname
+  reddit: iftakharopu
 #  linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "7774419/iftakharul-islam"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: a_complain_guy
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -68,7 +68,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -164,7 +164,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Dhaka"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
