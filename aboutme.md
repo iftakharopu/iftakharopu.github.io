@@ -5,16 +5,22 @@ subtitle: Human, Pythonista, Geek, Developer
 ---
 
 **Aloha** 
-Hi! I'm Opu. (formally known as Iftakharul Islam). I'm a tech enthusiast, junior level developer. I've a passion for building and breaking things apart (ouch!) 
+Hi!I'm Iftakharul Islam.(You can call me *Opu*) I'm a tech enthusiast, junior-level developer. I have a passion for building and breaking things apart (ouch!) 
 
-I obtained my **Bachelors of Science** degree in Computer Science & Engineering from Bangladesh Army University of Science and Technology, Bangladesh.
 
-I love to read about history, bringe watch any serials with good reviews. Ocationally play my ukulele. Great folk, blues music fan.
+Currently pursuing **Master's** studies in **Computer Science** at Jahangirnagar University .
 
-I'm a software developer. I write code to solve peoples problem.
+I've obtained my **Bachelors of Science** degree in **Computer Science & Engineering** from Bangladesh Army University of Science and Technology, Bangladesh.
+
+
+I love to read about psychology, watch science fiction series. Occasionally play my ukulele. 
+
+Folk & Blues music fan.
+
+I'm a software developer. 
 
 What else do you need?
 
 ### history
 
-To be honest, I'm having some trouble remembering right now, So, this section will **update** over time.
+ I'm having some trouble remembering right now, So, this section will **updated** over time.
