@@ -28,7 +28,7 @@ author:
   location         : "Stuttgart, Germany"
   employer         : "Robert Bosch GmBH"
   uri              : # URL
-  email            : "iftakharopu@outlook.com." 
+  email            : "iftakharopu@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -130,7 +130,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # twitter
+  username               : &iftakharopu
 facebook:
   username               :
   app_id                 :
