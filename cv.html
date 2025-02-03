@@ -10,7 +10,30 @@
     <link href="styles.css" rel="stylesheet">
 </head>
 <body>
-    <!-- Your content goes here -->
+    <nav>
+        <div class="nav-wrapper">
+            <a href="index.html" class="brand-logo">Portfolio</a>
+            <a href="#" data-target="mobile-menu" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="cv.html">CV</a></li>
+                <li><a href="blog.html">Blog</a></li>
+            </ul>
+        </div>
+    </nav>
+    
+    <!-- Mobile Menu -->
+    <ul class="sidenav" id="mobile-menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="cv.html">CV</a></li>
+        <li><a href="blog.html">Blog</a></li>
+    </ul>
+    <div class="container">
+        <h4>CV</h4>
+        <iframe src="resume.pdf" width="100%" height="500px"></iframe>
+    </div>
     <!-- Materialize JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <!-- Custom JS -->
