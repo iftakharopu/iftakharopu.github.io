@@ -18,24 +18,36 @@ body {
     margin-top: 20px;
 }
 
+/* Custom styles for centered navigation */
 nav {
-    background-color: #ffffff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #00796b;
+    padding: 20px 0;
 }
 
-nav .brand-logo {
-    color: #333;
+.nav-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.nav-links a {
+    color: white;
+    font-size: 1.2rem;
     font-weight: bold;
-    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-decoration: none;
 }
 
-nav ul a {
-    color: #333;
-    font-weight: 500;
+.nav-links a:hover {
+    text-decoration: underline;
 }
 
-nav ul a:hover {
-    color: #00796b;
+.nav-layer {
+    background-color: #004d40;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .landing img {
